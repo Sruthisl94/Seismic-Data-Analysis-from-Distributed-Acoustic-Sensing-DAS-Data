@@ -4,7 +4,7 @@ Analyze raw seismic DAS data from the Stanford DAS dataset to explore temporal p
 
 ## Description:
 This project aims to visualize DAS seismic waveform data stored in SEG-Y format. Extract the key statistics such as amplitude ranges, signal duration, and sampling rate, and use time-domain and frequency-domain plots to understand the seismic activity patterns. The analysis includes waveform visualization, spectrogram generation, and signal filtering to reveal both short-term and long-term variations in the data.
-## Goal: \n
+## Goal: 
 * Load the seismic waveform data
 
 * Visualize the signal from multiple channels
